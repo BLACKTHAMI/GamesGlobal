@@ -19,7 +19,6 @@ Components:
 * AWS IAM: Controls access and permissions to AWS resources.
 * AWS Secrets Manager: Stores and manages sensitive data like database credentials.
 * Amazon CloudWatch: Centralized logging and monitoring service.
-* AWS X-Ray: Distributed tracing for analyzing and debugging microservices.
 * Amazon Route 53: DNS service for routing traffic to the application.
 
 Interactions:
