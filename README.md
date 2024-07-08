@@ -7,7 +7,7 @@ This document describes the architecture, security, monitoring, deployment, and 
 
 ## 1. Architecture Diagram and Description
 
-![ARCHITECTURE!](../Images/GAMESGLOBAL ARCHITECTURE DIAGRAM.png)
+![ARCHITECTURE!](Deployment/Images/GAMESGLOBAL ARCHITECTURE DIAGRAM.png)
 
 Components:
 * Amazon VPC: Provides network isolation and security for application resources.
