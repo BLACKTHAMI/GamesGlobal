@@ -3,7 +3,7 @@ A robust and scalable micro-services deployment and management solution for a hi
 
 
 
-This document describes the architecture, security, monitoring, deployment, and scaling strategy for the [Your Application Name] application on AWS.
+This document describes the architecture, security, monitoring, deployment, and scaling strategy for the application on AWS.
 
 ## 1. Architecture Diagram and Description
 
